@@ -1,9 +1,3 @@
----
-layout: page
-title: Python Numpy Tutorial
-permalink: /python-numpy-tutorial/
----
-
 <!--
 Python:
   Simple data types
@@ -21,21 +15,7 @@ Python:
 Numpy
 -->
 
-This tutorial was contributed by [Justin Johnson](http://cs.stanford.edu/people/jcjohns/).
-
-We will use the Python programming language for all assignments in this course.
-Python is a great general-purpose programming language on its own, but with the
-help of a few popular libraries (numpy, scipy, matplotlib) it becomes a powerful
-environment for scientific computing.
-
-We expect that many of you will have some experience with Python and numpy;
-for the rest of you, this section will serve as a quick crash course both on
-the Python programming language and on the use of Python for scientific
-computing.
-
-Some of you may have previous knowledge in Matlab, in which case we also recommend the [numpy for Matlab users](http://wiki.scipy.org/NumPy_for_Matlab_Users) page.
-
-You can also find an [IPython notebook version of this tutorial here](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb) created by [Volodymyr Kuleshov](http://web.stanford.edu/~kuleshov/) and [Isaac Caswell](https://symsys.stanford.edu/viewing/symsysaffiliate/21335) for [CS 228](http://cs.stanford.edu/~ermon/cs228/index.html).
+Credits [Justin Johnson](http://cs.stanford.edu/people/jcjohns/).
 
 Table of contents:
 
