@@ -1,21 +1,10 @@
-<!--
-Python:
-  Simple data types
-    integer, float, string
-  Compound data types
-    tuple, list, dictionary, set
-  Flow control
-    if, while, for, try, with
-  Comprehensions, generators
-  Functions
-  Classes
-  Standard library
-    json, collections, itertools
-
-Numpy
--->
-
+```
+This python-quick-tutorial file is an attempt to get familiar with the basic python operations. It is firstly putup by Justin Johnson. Adding some layers on this, I will add more new concepts, explainations & examples. 
 Credits [Justin Johnson](http://cs.stanford.edu/people/jcjohns/).
+
+
+I am working on this tutorial solely for myself. If anyone wants to use it, they can with no restrictions.
+```
 
 Table of contents:
 
